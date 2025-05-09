@@ -14,6 +14,6 @@ In the terminal, navigate to your project folder and execute the main script: "p
 
 When prompted, enter your query in natural language, for example:"Which team won the World Cup in 2018?"
 
-After typing your question, you’ll be asked to choose the database backend: 'mysql' or 'mongod'
+After typing your question, you’ll be asked to choose the database backend: 'mysql' or 'mongo'
 
 The terminal will then display the executed query and its result.
